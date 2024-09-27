@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lesomard.github.io/sitemap.lesomard.gz
+Sitemap: https://lesomard.github.io/app/sitemap.lesomard.gz
+Sitemap: https://lesomard.github.io/assets/sitemap.lesomard.gz
+Sitemap: https://lesomard.github.io/css/sitemap.lesomard.gz
+Sitemap: https://lesomard.github.io/data/sitemap.lesomard.gz
+Sitemap: https://lesomard.github.io/includes/sitemap.lesomard.gz
+Sitemap: https://lesomard.github.io/item/sitemap.lesomard.gz
+Sitemap: https://lesomard.github.io/src/sitemap.lesomard.gz
